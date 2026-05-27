@@ -71,7 +71,7 @@ created_at    → The exact date and time a task was first made.
 updated_at    → The last time anything on the task was changed.
 Domain Model  → All the important "things" and "rules" that make up the app.
 
- 7: TEST YOUR KNOWLEDGE (My Answers)
+ 7: TEST MY KNOWLEDGE (My Answers)
 
 QUESTION 1: What are the 3 main toys (entities) in the toy box?
 MY ANSWER: Task, TaskPriority and TaskStatus.
